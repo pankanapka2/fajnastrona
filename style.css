@@ -4,3 +4,9 @@ color: beige;
 a{
     color: rgb(0, 255, 255)
 }
+header{
+    border: 2px solid rgb(255, 0, 0)
+}
+main{
+     background-color: rgb(123,235,148) 
+}
